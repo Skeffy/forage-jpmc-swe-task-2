@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import DataStreamer, { ServerRespond } from './DataStreamer';
 import Graph from './Graph';
 import './App.css';
-import { Server } from 'http';
 
 /**
  * State declaration for <App />
